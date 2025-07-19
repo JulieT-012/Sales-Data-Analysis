@@ -1,12 +1,15 @@
 ## Sales-Data-Analysis
 
-![]()
+
+![](https://github.com/JulieT-012/Sales-Data-Analysis/blob/main/Sales%20data%20analysis%20image.png)
+
 
 ## 🧩 Introduction:
 
 This project analyzes sales data for a transport-focused business to uncover trends in product performance, deal sizes, customer behavior, and overall sales performance.Using Excel, SQL, and Power BI, the analysis follows a complete workflow, from raw data to a clean Excel dashboard and an interactive Power BI report. 
 
 The result is a powerful tool that reveals where sales are thriving, where revenue is leaking, and how business decisions can be better informed.
+
 
 ## 📏 Key Metrics:
 
@@ -18,6 +21,7 @@ The result is a powerful tool that reveals where sales are thriving, where reven
 6. What are the Top-Performing Deal Size (Small, Medium, Large) by Sales?
 7. What are the Order Status by Sales?
 8. What are the Monthly and Yearly Sales Trends?
+
 
 ## 🛠 Skills & Concepts Demonstrated
 
@@ -74,6 +78,7 @@ The majority of orders were Shipped, but there was a notable number of Cancelled
 Sales spiked during Q2 and Q4, suggesting seasonal demand. The year 2005 showed strong performance overall.
 
 You can interact with the live visualizations [HERE]()
+
 
 ## 🧠 Conclusions & Recommendations
 
