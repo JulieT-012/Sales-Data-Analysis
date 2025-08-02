@@ -43,6 +43,9 @@ The result is a powerful tool that reveals where sales are thriving, where reven
 
  ## 📊 Visualization 
 
+ ![](https://github.com/JulieT-012/Sales-Data-Analysis/blob/main/Sales%20Dashboard.png)
+
+
  ![]()
  
  
