@@ -63,7 +63,7 @@ Most orders included quantities between 30 and 50 units, with Classic Cars leadi
 Classic Cars and Motorcycles were the top-performing product lines, driving the majority of total revenue.
 
 ### Top Customers by Revenue
-A few key customers—like Mini Auto Co.—consistently made large purchases and contributed heavily to revenue.
+A few key customers like Mini Auto Co., consistently made large purchases and contributed heavily to revenue.
 
 ### Average Quantity per Product Line
 Products under Classic Cars and Motorcycles had the highest average order quantities.
@@ -72,7 +72,7 @@ Products under Classic Cars and Motorcycles had the highest average order quanti
 Large deals accounted for the highest sales, followed by medium-sized deals. Small deals contributed the least.
 
 ### Order Status by Sales
-The majority of orders were Shipped, but there was a notable number of Cancelled and On Hold orders—indicating potential fulfillment challenges.
+The majority of orders were Shipped, but there was a notable number of Cancelled and On Hold orders, indicating potential fulfillment challenges.
 
 ### Monthly and Yearly Sales Trends
 Sales spiked during Q2 and Q4, suggesting seasonal demand. The year 2005 showed strong performance overall.
