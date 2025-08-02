@@ -45,12 +45,6 @@ The result is a powerful tool that reveals where sales are thriving, where reven
 
  ![](https://github.com/JulieT-012/Sales-Data-Analysis/blob/main/Sales%20Dashboard.png)
 
-
- ![]()
- 
- 
- 
- 
  
  
  
@@ -80,7 +74,7 @@ The majority of orders were Shipped, but there was a notable number of Cancelled
 ### Monthly and Yearly Sales Trends
 Sales spiked during Q2 and Q4, suggesting seasonal demand. The year 2005 showed strong performance overall.
 
-You can interact with the live visualizations [HERE]()
+You can interact with the live visualizations [HERE](https://drive.google.com/drive/folders/1zsHbKAwrWCa5xPzJnGoS6BQBoRZcasE5?usp=sharing)
 
 
 ## 🧠 Conclusions & Recommendations
